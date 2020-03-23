@@ -2,5 +2,14 @@ body {
     background-color: #F4E5FF;
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: xx-large;
-    font-stretch: semi-expanded;
+    font-stretch: semi-expanded; 
+}
+
+div {
+    width: 500px;
+    margin: auto;
+}
+
+h1, h2 {
+    text-align: center;
 }
